@@ -30,7 +30,7 @@ var products = ['Microsoft Surface Book', 'Lenovo ThinkPad W540', 'MSI GT80 Tita
     'Samsung NX1', 'Olympus PEN E-PL6', 'Canon E, S Rebel T6s', 'Roku 4', 'Nvidia Shield'
 ];
 
-
+ 
 
 function getRandomArbitrary(min, max) {
     return Math.random() * (max - min) + min;
